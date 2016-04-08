@@ -17,6 +17,7 @@ module.exports = {
   },
   plugins: [
     new webpack.NoErrorsPlugin(),
+    new webpack.optimize.UglifyJsPlugin({minimize: true}),
     devFlagPlugin,
     new ExtractTextPlugin('app.css')
   ],
