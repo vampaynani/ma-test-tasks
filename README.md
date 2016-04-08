@@ -1,7 +1,7 @@
 
-# creze_admin (creze_admin)
+# MA Test Task
 
-> Admin v2.0 for Creze Webap
+> Donation via Pay On API Test Task
 
 ## Running your project
 
